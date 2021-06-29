@@ -1,0 +1,69 @@
+#banner_image{
+padding-top: 80px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(../img/apple1.jpg) no-repeat center center;
+background-size: cover;
+}
+#banner_content{
+position: relative;
+padding-top: 3%;
+padding-bottom: 6%;
+margin-top: 32%;
+margin-bottom:0%;
+background-color: rgba(0,0,0,0.2);
+max-width: 660px;
+}
+.container11
+{
+	margin-top: 2%;
+}
+.thumbnail{
+margin-bottom:0;
+border:0;
+}
+.row_style{
+margin-top:100px;
+margin-bottom:50px;
+}
+.row_style1{
+margin-top:100px;
+margin-bottom:33px;
+}
+.row_style2{
+margin-top:100px;
+margin-bottom:200px;
+}
+.img1{
+height:380px;
+width:Auto;
+display: block;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+footer {
+    position: relative;
+    background-color: #3d3d3d;
+    color:white;
+    width: 100%;
+    bottom: 0;
+    font-weight: 200;
+}
+.columnf{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
+}
+
+
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
